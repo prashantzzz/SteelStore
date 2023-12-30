@@ -46,3 +46,51 @@
     <li><strong>Order Status:</strong> Keep track of the current status of each order, allowing for easy monitoring and updates.</li>
     <li><strong>Prices:</strong> Access the pricing details associated with each order for efficient financial management.</li>
 </ul>
+
+# Technologies Used
+
+<h3>Frontend</h3>
+
+<h4>Woostify Theme from WordPress</h4>
+<p>Utilizing the Woostify theme to enhance the visual appeal and functionality of the frontend.</p>
+
+<h4>Elementor for Frontend</h4>
+<p>Empowering the frontend with Elementor for a seamless and customizable user interface.</p>
+
+<h4>Custom CSS for Manual Changes</h4>
+<p>Implementing custom CSS to make specific manual adjustments to the frontend appearance and behavior.</p>
+
+<h3>Backend</h3>
+
+<h4>WooCommerce Built-in Backend System</h4>
+<p>Leveraging the robust WooCommerce backend system to manage and streamline e-commerce operations.</p>
+
+<h4>Data Storage on InfinityFree Servers</h4>
+<p>Storing data securely on InfinityFree servers for efficient and reliable data management.</p>
+
+<h3>ChatBot</h3>
+
+<h4>Chatbase API Integration</h4>
+<p>Integrating Chatbase API to enhance the functionality and analytics of the ChatBot.</p>
+
+<h4>Trained on the SteelStore Website's Data</h4>
+<p>Training the ChatBot on the SteelStore website's data for personalized and context-aware interactions.</p>
+<br>
+<h4>Payment: Razor Pay API Integration</h4>
+<p>Incorporating Razor Pay API for seamless and secure payment transactions on the e-commerce platform.</p>
+
+<h4>Hosting Provider: Infinityfree.com</h4>
+<p>Choosing Infinityfree.com as the hosting provider for reliable and scalable hosting services.</p>
+
+<h3>WordPress Plugins Used</h3>
+
+<ul>
+    <li>Elementor</li>
+    <li>Nextend Social Login</li>
+    <li>Razorpay for WooCommerce</li>
+    <li>Custom JavaScript</li>
+    <li>Tidio Chat</li>
+    <li>WooCommerce</li>
+    <li>WP Dark Mode</li>
+    <li>WP-Optimize - Clean, Compress, Cache</li>
+</ul>
